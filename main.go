@@ -7,5 +7,7 @@ import (
 func main() {
 
 	var minhaj string = "Hello Minhaj"
+
 	fmt.Println(minhaj)
+
 }
