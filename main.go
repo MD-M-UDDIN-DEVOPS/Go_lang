@@ -1,7 +1,11 @@
 package main
 
-import "fmt"
+import (
+	"fmt"
+)
 
 func main() {
-        fmt.Println("My very first go program!")
+
+	var minhaj string = "Hello Minhaj"
+	fmt.Println(minhaj)
 }
