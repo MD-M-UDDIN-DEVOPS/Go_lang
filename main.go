@@ -23,7 +23,7 @@ func main() {
 }
 
 
-package main
+## package main
 
 import "fmt"
 
