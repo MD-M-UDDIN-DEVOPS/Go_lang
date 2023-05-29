@@ -18,7 +18,7 @@ func main() {
 }
 
  // with if, else if
- package main
+ ##package main
 
  import "fmt"
  func main(){
