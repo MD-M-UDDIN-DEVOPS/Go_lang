@@ -5,7 +5,7 @@ import "fmt"
 
 func main() {
 	// a program to determine positive / negative / zero
-	number := 10
+	number := 30
 	if number > 0 {
 		fmt.Printf("Positive\n")
 	}
