@@ -32,3 +32,15 @@ func main() {
         fmt.Println(a && b)
         fmt.Println(a || b)
 }
+
+func main() {
+	// a program to determine positive / negative / zero
+	number := 10
+	if number > 0 {
+	  fmt.Printf("Positive\n")
+	}	else if number < 0 {
+	  fmt.Printf("Negative\n")
+	} else {
+	  fmt.Printf("Zero\n")
+	}
+  }
